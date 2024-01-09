@@ -1,0 +1,22 @@
+{
+    "name": "Summerfl",
+    "description": "Legendary Tier NFT: Access up to $3000 in our system. Elite privileges, financial empowerment.",
+    "image": "https://i.ibb.co/VjWxXJj/OIG-final.jpg",
+    "external_url": "https://summerfi.us/",
+    "attributes": [
+        {
+            "key": "Rarity :",
+            "trait_type": "Rarity :",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Access :",
+            "value": "$3000"
+        },
+        {
+            "key": "Website:",
+            "trait_type": "Website :",
+            "value": "summerfi.us"
+        }
+    ]
+}
